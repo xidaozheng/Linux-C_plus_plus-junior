@@ -1,0 +1,3 @@
+/home/xi/juniorC++/02_solider_and_gun/build/CMakeFiles/rebuild_cache.dir
+/home/xi/juniorC++/02_solider_and_gun/build/CMakeFiles/my_exe_cmake.dir
+/home/xi/juniorC++/02_solider_and_gun/build/CMakeFiles/edit_cache.dir

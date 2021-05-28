@@ -1,0 +1,1 @@
+/usr/bin/c++   -g -Wall -g  -rdynamic CMakeFiles/my_exe_cmake.dir/main.cpp.o CMakeFiles/my_exe_cmake.dir/src/gun.cpp.o CMakeFiles/my_exe_cmake.dir/src/solider.cpp.o  -o my_exe_cmake 

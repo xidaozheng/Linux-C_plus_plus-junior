@@ -1,0 +1,36 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../include/gun.h
+string
+-
+
+../include/solider.h
+string
+-
+gun.h
+../include/gun.h
+
+/home/xi/juniorC++/02_solider_and_gun/main.cpp
+gun.h
+/home/xi/juniorC++/02_solider_and_gun/gun.h
+solider.h
+/home/xi/juniorC++/02_solider_and_gun/solider.h
+iostream
+-
+
+/home/xi/juniorC++/02_solider_and_gun/src/gun.cpp
+gun.h
+/home/xi/juniorC++/02_solider_and_gun/src/gun.h
+iostream
+-
+
+/home/xi/juniorC++/02_solider_and_gun/src/solider.cpp
+solider.h
+/home/xi/juniorC++/02_solider_and_gun/src/solider.h
+
